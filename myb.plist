@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://59.49.39.73:91/myb/upload/sxMYB.ipa</string>
+                    <string>https://raw.githubusercontent.com/fishcaoyu/cty/master/sxMYB.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
