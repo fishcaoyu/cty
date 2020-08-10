@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://raw.githubusercontent.com/fishcaoyu/cty/master/myb.ipa</string>
+                    <string>https://raw.githubusercontent.com/fishcaoyu/cty/master/sxca.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.sxca.miyaobao</string>
+                <string>cn.com.sxbid.apple</string>
                 <key>bundle-version</key>
-                <string>1.0.3</string>
+                <string>1.2.5</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>密钥宝</string>
+                <string>山西省招标投标公共服务平台</string>
             </dict>
         </dict>
     </array>
